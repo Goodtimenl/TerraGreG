@@ -1,0 +1,30 @@
+.login-modal {
+  display: flex;
+}
+
+.login-modal input {
+  margin-right: 5px;
+}
+
+.login-modal p {
+  color: rgb(255, 255, 255);
+  margin: 0px 50px;
+
+  font-family: "Inconsolata-Light", sans-serif;
+}
+
+.login-modal form button {
+  border: none;
+  color: var(--darkBlue);
+  font-family: "Inconsolata-Light", sans-serif;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.login-modal button {
+  border: none;
+  color: var(--darkBlue);
+  font-family: "Inconsolata-Light", sans-serif;
+  padding: 5px 10px;
+  border-radius: 5px;
+}

@@ -1,0 +1,12 @@
+.container-admin {
+  font-family: "Mont-L", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.container-admin h1,
+.space {
+  margin: 3rem;
+}

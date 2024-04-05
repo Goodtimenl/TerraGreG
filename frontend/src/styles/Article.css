@@ -1,0 +1,30 @@
+.container-article {
+  margin-top: 3rem;
+  height: 350px;
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.article-img {
+  width: 45%;
+  scale: 0.32;
+}
+
+.article-content {
+  width: 65%;
+  border: solid 1px black;
+  padding: 40px;
+}
+.article-content h2 {
+  font-family: "Mont-R", sans-serif;
+  font-size: 30px;
+  font-weight: bold;
+  color: var(--darkBlue);
+}
+.article-content p {
+  font-family: "Mont-L", sans-serif;
+  color: var(--darkBlue);
+  margin-top: 10px;
+}

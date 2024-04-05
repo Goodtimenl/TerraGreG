@@ -1,0 +1,40 @@
+@font-face {
+  font-family: Inconsolata-Light;
+  src: url("./assets/fonts/Inconsolata_ExtraExpanded-Light.ttf");
+}
+@font-face {
+  font-family: Inconsolata-ExtraLight;
+  src: url("./assets/fonts/Inconsolata_ExtraExpanded-ExtraLight.ttf");
+}
+@font-face {
+  font-family: Bungee;
+  src: url("./assets/fonts/BungeeHairline-Regular.ttf");
+}
+@font-face {
+  font-family: Mont-EL;
+  src: url("./assets/fonts/Montserrat-ExtraLight.ttf");
+}
+@font-face {
+  font-family: Mont-L;
+  src: url("./assets/fonts/Montserrat-Light.ttf");
+}
+
+@font-face {
+  font-family: Mont-R;
+  src: url("./assets/fonts/Montserrat-Regular.ttf");
+}
+
+* {
+  margin: 0px;
+  border: 0px;
+}
+
+:root {
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --darkBlue: #373b41;
+}
