@@ -1,5 +1,5 @@
 This project has benne made alone during my studdies at the WildeCodeSchool as a 4th project. 
-Objective was to buid a frond and back working blog with a CRUD method for the back, in oly 2 daays...
+Objective was to buid a frond and back working blog with a CRUD method, in oly 2 days...
 
 PREVIEW : 
 
